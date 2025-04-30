@@ -1,0 +1,5 @@
+[project]
+name = "pairjudge"
+version = "0.1.0"
+description = "Pairwise LLM judges (A/B/tie): budget-aware multi-turn packing, position-bias correction, pseudo-label distillation. Generalized from the 4th-place (gold) solution to Kaggle LMSYS Chatbot Arena."
+requires-python = ">=3.10"
